@@ -24,9 +24,7 @@ Um projeto web interativo que cria uma árvore de natal 3D usando Three.js, onde
 ## 📦 Instalação e Uso
 
 1. Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/minha-arvore-natal.git
-```
+```bash https://github.com/JNEWSP/Arvore-de-natal.git```
 
 2. Navegue até o diretório do projeto:
 ```bash
